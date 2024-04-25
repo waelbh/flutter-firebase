@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382677268696",
+    "project_id": "product-d18c0",
+    "storage_bucket": "product-d18c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382677268696:android:5a262ef6812573b518bfad",
+        "android_client_info": {
+          "package_name": "com.example.suggestionflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37tfOd1Bg0VVv4nqjfYwnAencIijXhDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

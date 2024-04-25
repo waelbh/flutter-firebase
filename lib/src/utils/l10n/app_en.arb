@@ -1,0 +1,6 @@
+{
+    "productTitle": "Product",
+    "@productTitle": {
+        "description": "product title"
+    }
+}
